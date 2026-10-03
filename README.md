@@ -2,7 +2,7 @@
 
 > **One OpenAI-compatible key, 300+ models** · image2.5 **$0.0085/image** · Seedance 2.0 Mini **$0.01056/sec** · LLM from **$0.0228 / M tokens** · $1 minimum top-up.
 
-**[See live pricing](https://go.apimart.ai/k-80caf0)** · **[Get an API key](https://go.apimart.ai/k-10df33)**
+**[See live pricing](https://go.apimart.ai/k-566c43)** · **[Get an API key](https://go.apimart.ai/k-10df33)**
 
 llm-api-free-tier keeps one `base_url` and one key in front of 300+ models — USD settlement, pay-as-you-go, $1 minimum top-up.
 
